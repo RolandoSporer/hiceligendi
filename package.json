@@ -1,0 +1,38 @@
+{
+  "name": "hiceligendi",
+  "version": "1.0.0",
+  "description": "A complete, bidirectional, JXON library",
+  "keywords": [
+    "jxon",
+    "rerum",
+    "numquam",
+    "inventore",
+    "qui",
+    "vero",
+    "nisi",
+    "xml to json",
+    "xml2json",
+    "aut",
+    "js2xml",
+    "quam",
+    "json2xml"
+  ],
+  "main": "index.js",
+  "author": "FordBashirian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolandoSporer/hiceligendi.git"
+  },
+  "browser": {
+    "xmldom": false
+  },
+  "license": "GPL v3",
+  "dependencies": {
+    "xmldom": "~0.1.17"
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "assert": "~1.3.0"
+  },
+  "homepage": "https://github.com/RolandoSporer/hiceligendi.git"
+}
